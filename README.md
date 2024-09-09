@@ -2,7 +2,7 @@
 
 ## Samvaad (Team: entropy)
 
-![image-20240909095150960](/home/mohak/.config/Typora/typora-user-images/image-20240909095150960.png)
+![image-20240909095150960](./public/chart.png)
 
 **Samvaad** is a React Native-based application that integrates with various microservices to perform tasks based on the specified problem statement. The flowchart above illustrates the application's overall workflow. The UI of the application can also be seen as: 
 
