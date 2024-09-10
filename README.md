@@ -30,4 +30,3 @@ The below output shows the speech to ISL sign conversion using Gujarati speech a
 
 As the input for particular Gujarati speech is received, it's then transcribed to Gujarati and then converted to English text to be further rendered by the model.
 
-The given notebook `./text_to_sign.ipynb` shows the indexing for the model.
